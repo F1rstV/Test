@@ -35,4 +35,7 @@ public class TestTest extends JFrame{
 	public static void main(String[] args) {
         TestTest tt = new TestTest();
 	}
+	public class Cllll{
+		
+	}
 }
